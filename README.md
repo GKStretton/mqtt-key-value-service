@@ -1,4 +1,6 @@
-# MQTT key-value Service
+# MQTT key-value Service (WIP)
+
+(WIP - not implemented)
 
 mqtt-key-value-service is a simple, lightweight, key-value store with an MQTT interface. This combines the simplicity and usefulness of a key-value store with the interoperability of MQTT. It can, optionally, persist the data.
 
